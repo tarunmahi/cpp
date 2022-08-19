@@ -10,7 +10,7 @@
 int main(){
  //   std::cout<<"the max and min value of int is "<<std::numeric_limits<int>::min() <<" to "<<std::numeric_limits<int>::max()<<" ";
  //std::cout<<"the min and max vaues of "<<std::numeric_limits<double>::min()<<"to"<<std::numeric_limits<double>::max()<<" ";   
-
+/*
    int op{scissor};;
    switch(op){
     case pen : {
@@ -24,7 +24,7 @@ int main(){
     default :{
         std::cout<<"move on";
     }
-   }
+   }*/
 
 
 
